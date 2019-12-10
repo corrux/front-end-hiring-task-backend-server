@@ -1,0 +1,257 @@
+[
+    {
+        "id": 23,
+        "location": {
+            "altitude": 0,
+            "latitude": 51.47679,
+            "longitude": 7.097966
+        },
+        "metrics": {
+            "def_remaining": null,
+            "engine_status": 0,
+            "fuel_remaining": 32,
+            "last_activity": "2019-12-10T00:00:00.000"
+        },
+        "model": {
+            "category": "earth_moving",
+            "make": "liebherr",
+            "manufacture_year": 2016,
+            "model": "A 924:1206",
+            "tank_capacity": 0,
+            "type": "wheeled_excavator"
+        },
+        "serial_number": "768403"
+    },
+    {
+        "id": 22,
+        "location": {
+            "altitude": 0,
+            "latitude": 51.533433,
+            "longitude": 6.80822
+        },
+        "metrics": {
+            "def_remaining": null,
+            "engine_status": 1,
+            "fuel_remaining": 80,
+            "last_activity": "2019-12-09T00:00:00.000"
+        },
+        "model": {
+            "category": "earth_moving",
+            "make": "liebherr",
+            "manufacture_year": 2016,
+            "model": "A 924:1206",
+            "tank_capacity": 0,
+            "type": "wheeled_excavator"
+        },
+        "serial_number": "293812"
+    },
+    {
+        "id": 21,
+        "location": {
+            "altitude": 0,
+            "latitude": 51.524327,
+            "longitude": 7.100483
+        },
+        "metrics": {
+            "def_remaining": null,
+            "engine_status": 1,
+            "fuel_remaining": 63,
+            "last_activity": "2019-12-06T00:00:00.000"
+        },
+        "model": {
+            "category": "earth_moving",
+            "make": "liebherr",
+            "manufacture_year": 2015,
+            "model": "A 924:1180",
+            "tank_capacity": 0,
+            "type": "wheeled_excavator"
+        },
+        "serial_number": "233456"
+    },
+    {
+        "id": 20,
+        "location": {
+            "altitude": 0,
+            "latitude": 51.482501,
+            "longitude": 7.013696
+        },
+        "metrics": {
+            "def_remaining": 0,
+            "engine_status": 1,
+            "fuel_remaining": 49,
+            "last_activity": "2019-12-10T00:00:00.000"
+        },
+        "model": {
+            "category": "earth_moving",
+            "make": "liebherr",
+            "manufacture_year": 2013,
+            "model": "A 924:1180",
+            "tank_capacity": 0,
+            "type": "wheeled_excavator"
+        },
+        "serial_number": "697043"
+    },
+    {
+        "id": 19,
+        "location": {
+            "altitude": 0,
+            "latitude": 51.494519,
+            "longitude": 6.754654
+        },
+        "metrics": {
+            "def_remaining": null,
+            "engine_status": 1,
+            "fuel_remaining": 71,
+            "last_activity": "2019-12-04T00:00:00.000"
+        },
+        "model": {
+            "category": "earth_moving",
+            "make": "liebherr",
+            "manufacture_year": 2014,
+            "model": "A 920:1179",
+            "tank_capacity": 0,
+            "type": "wheeled_excavator"
+        },
+        "serial_number": "985034"
+    },
+    {
+        "canedge_id": "2B3CE8F6",
+        "id": 18,
+        "location": {
+            "altitude": 0,
+            "latitude": 51.51731,
+            "longitude": 6.969532
+        },
+        "metrics": {
+            "def_remaining": 56,
+            "engine_status": 0,
+            "fuel_remaining": 49,
+            "last_activity": "2019-11-08T00:00:00.000"
+        },
+        "model": {
+            "category": "earth_moving",
+            "make": "liebherr",
+            "manufacture_year": 2017,
+            "model": "A 918 Compact:1508",
+            "tank_capacity": 0,
+            "type": "wheeled_excavator"
+        },
+        "serial_number": "120049"
+    },
+    {
+        "id": 17,
+        "location": {
+            "altitude": 0,
+            "latitude": 51.435722,
+            "longitude": 7.563808
+        },
+        "metrics": {
+            "def_remaining": null,
+            "engine_status": 0,
+            "fuel_remaining": 32,
+            "last_activity": "2019-12-09T00:00:00.000"
+        },
+        "model": {
+            "category": "earth_moving",
+            "make": "liebherr",
+            "manufacture_year": 2013,
+            "model": "A 914 Compact:1188",
+            "tank_capacity": 0,
+            "type": "wheeled_excavator"
+        },
+        "serial_number": "345667"
+    },
+    {
+        "id": 16,
+        "location": {
+            "altitude": 0,
+            "latitude": 51.515561,
+            "longitude": 6.98157
+        },
+        "metrics": {
+            "def_remaining": null,
+            "engine_status": 1,
+            "fuel_remaining": 43,
+            "last_activity": "2019-11-29T00:00:00.000"
+        },
+        "model": {
+            "category": "earth_moving",
+            "make": "liebherr",
+            "manufacture_year": 2013,
+            "model": "A 914 Compact:1188",
+            "tank_capacity": 0,
+            "type": "wheeled_excavator"
+        },
+        "serial_number": "234223"
+    },
+    {
+        "canedge_id": "753BA85C",
+        "id": 15,
+        "location": {
+            "altitude": 52.4,
+            "latitude": 51.476054,
+            "longitude": 7.010866
+        },
+        "metrics": {
+            "def_remaining": null,
+            "engine_status": 1,
+            "fuel_remaining": 45,
+            "last_activity": "2019-12-06T00:00:00.000"
+        },
+        "model": {
+            "category": "earth_moving",
+            "make": "liebherr",
+            "manufacture_year": 2015,
+            "model": "R926:1320",
+            "tank_capacity": 0,
+            "type": "crawler_excavator"
+        },
+        "serial_number": "443465"
+    },
+    {
+        "id": 14,
+        "location": {
+            "altitude": 0,
+            "latitude": 51.466275,
+            "longitude": 7.061068
+        },
+        "metrics": {
+            "def_remaining": null,
+            "engine_status": 1,
+            "fuel_remaining": 55,
+            "last_activity": "2019-12-06T00:00:00.000"
+        },
+        "model": {
+            "category": "earth_moving",
+            "make": "liebherr",
+            "manufacture_year": 2014,
+            "model": "R936:1147",
+            "tank_capacity": 0,
+            "type": "crawler_excavator"
+        },
+        "serial_number": "243886"
+    },
+    {
+        "id": 13,
+        "location": {
+            "altitude": 0,
+            "latitude": 51.468243,
+            "longitude": 6.97549
+        },
+        "metrics": {
+            "def_remaining": null,
+            "engine_status": 1,
+            "fuel_remaining": 55,
+            "last_activity": "2019-12-09T00:00:00.000"
+        },
+        "model": {
+            "category": "earth_moving",
+            "make": "liebherr",
+            "manufacture_year": 2018,
+            "model": "R936:1490",
+            "tank_capacity": 0,
+            "type": "crawler_excavator"
+        },
+        "serial_number": "567454"
+    }
+]
