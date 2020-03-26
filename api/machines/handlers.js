@@ -1,9 +1,9 @@
 const data = require('./machines.json');
 
-const MIN_LAT = 48.141216;
-const MAX_LAT = 48.143999;
-const MIN_LON = 48.141216;
-const MAX_LON = 48.143999;
+const MIN_LAT = 48.1413560;
+const MAX_LAT = 48.1441051;
+const MIN_LON = 11.5198946;
+const MAX_LON = 11.5272653;
 
 function getRandomInt(min, max) {
   min = Math.ceil(min);
