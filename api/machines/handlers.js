@@ -18,7 +18,7 @@ function getRandomLocation() {
   };
 }
 
-function checkIfMachineIsInBounds(coords) {
+function isMachineInBounds(coords) {
   return (
     coords.latitude > MIN_LAT &&
     coords.latitude < MAX_LAT &&
@@ -40,7 +40,7 @@ const radomizeMAchineData = (machine) => {
       engine_status: getRandomInt(0,1),
       fuel_remaining: getRandomInt(0, 100),
       last_activity: `2019-12-${getRandomInt(0,31)}T00:00:00.000`,
-      in_bounds: checkIfMachineIsInBounds(coordinates),
+      in_bounds: isMachineInBounds(coordinates),
     },
   };
 };
