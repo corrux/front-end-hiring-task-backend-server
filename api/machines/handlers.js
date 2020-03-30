@@ -27,7 +27,7 @@ function isMachineInBounds(coords) {
   );
 }
 
-const radomizeMAchineData = (machine) => {
+const radomizeMachineData = (machine) => {
   const coordinates = getRandomLocation();
   return {
     ...machine,
@@ -46,5 +46,5 @@ const radomizeMAchineData = (machine) => {
 };
 
 module.exports.getAll = () => {
-  return data.map(radomizeMAchineData);
+  return data.map(radomizeMachineData);
 };
